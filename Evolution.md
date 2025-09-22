@@ -1,4 +1,6 @@
-## Introduction  
+Introduction  
+
+---
 Do you remember learning about evolution in science class?    It seemed like just a biology topic, but natural selection in evolution is a powerful optimization process, tested over millions of years, where only the most adapted organisms survive.     Now, I will introduce the evolutionary algorithm, which is inspired by this principle of natural selection.
 
 ### 1)   What is an Evolutionary Algorithm?  
@@ -16,6 +18,31 @@ Of course, there are clear strengths and limitations.   It can flexibly handle c
 ### 5)   Conclusion  
 In conclusion, evolutionary algorithms are powerful optimization tools inspired by nature’s wisdom. They offer creative and effective solutions to complex problems that are difficult to solve with traditional methods.   Combined with artificial intelligence, especially deep learning and machine learning, they are expected to offer greater possibilities.   Thank you.
 
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+
+  
 ---  
 슬라이드 2: 도입  
 
