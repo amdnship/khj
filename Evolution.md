@@ -18,6 +18,7 @@ Of course, there are clear strengths and limitations.   It can flexibly handle c
 ### 5)   Conclusion  
 In conclusion, evolutionary algorithms are powerful optimization tools inspired by nature’s wisdom. They offer creative and effective solutions to complex problems that are difficult to solve with traditional methods.   Combined with artificial intelligence, especially deep learning and machine learning, they are expected to offer greater possibilities.   Thank you.
 
+![이미지](11.png)  
 .  
 .  
 .  
