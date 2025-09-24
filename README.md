@@ -1,7 +1,7 @@
 Evolutionary Algorithm  : Based on Natural Selection    (자연선택의 원리에 기반한 진화 알고리즘)  
 
 #### 1)   Evolutionary Algorithm  : Based on Natural Selection  
-Do you remember learning about evolution in science class?    It seemed like just a biology topic, but natural selection in evolution is a powerful optimization process, tested over millions of years, where only the most adapted organisms survive.      **( In other words, evolution in nature is not just a change over time but a process in which variations arise within a population, and individuals with traits better adapted to the environment survive through natural selection and pass those traits to the next generation. Over many generations, the entire species gradually changes. )**      An evolutionary algorithm is an optimization method that mimics natural selection.    It applies variation, selection, and recombination to candidate solutions across generations to gradually discover better answers.
+Do you remember learning about evolution in science class?    It seemed like just a biology topic, but natural selection in evolution is a powerful optimization process, tested over millions of years, where only the most adapted organisms survive. &nbsp;&nbsp;&nbsp;&nbsp; **( In other words, evolution in nature is not just a change over time but a process in which variations arise within a population, and individuals with traits better adapted to the environment survive through natural selection and pass those traits to the next generation. Over many generations, the entire species gradually changes. )** &nbsp;&nbsp;&nbsp;&nbsp;     An evolutionary algorithm is an optimization method that mimics natural selection.    It applies variation, selection, and recombination to candidate solutions across generations to gradually discover better answers.
   
 #### 2)   How It Works  
 The working principle is a simple cycle.       First, random solutions are generated and scored.     Then, the higher scoring solutions are selected.      This is the survival of the fittest step.       The selected solutions are combined and slightly modified to create the next generation.       Repeating this process improves the quality of solutions over time.   
@@ -15,18 +15,20 @@ Of course, there are clear strengths and limitations.   It can flexibly handle c
 #### 5)   Conclusion  
 In conclusion, evolutionary algorithms are powerful optimization tools inspired by nature’s wisdom. They offer creative and effective solutions to complex problems that are difficult to solve with traditional methods.   Combined with artificial intelligence, especially deep learning and machine learning, they are expected to offer greater possibilities.
 
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 ---
 
