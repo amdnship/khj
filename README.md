@@ -2,7 +2,10 @@
 1876년 ~ 1949년
 # 인물 선정의 이유
 > 백범 김구는 구한말부터 해방 후까지 독립운동의 상징이다. 동학 참여, 치하포 의거를 거쳐 대한민국 임시정부의 핵심 지도자로 활동하며 한인애국단을 조직하고 한국광복군을 이끌었다. 그의 평생의 목표는 단순한 독립을 넘어, ‘문화국가론’을 바탕으로 인류 평화에 기여하는 아름다운 통일 국가를 건설하는 것이었다. 분단을 막고자 남북 협상에 헌신한 그의 삶은 우리 민족의 자주독립과 통일 염원을 대변하기 때문에 선정하였다.
-# 연대기 참고사이트 [한국민족문화대백과사전](https://encykorea.aks.ac.kr/Article/E0008753), [우리역사넷](https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n400245&code=kc_age_40)
+# 연대기 
+
+참고사이트 : [한국민족문화대백과사전](https://encykorea.aks.ac.kr/Article/E0008753), [우리역사넷](https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n400245&code=kc_age_40) , [독립기념관](https://search.i815.or.kr/dictionary/detail.do?searchWord=%EA%B9%80%EA%B5%AC&reSearchWord=&searchType=all&index=1&id=682)
+
 ## 1876년 황해도 해주 출생
 
 [배경] 조선 후기 세도 정치의 폐해로 매관매직이 성행하고 삼정의 문란이 극에 달했던 시기였음. 몰락한 양반 가문의 후손으로 실질적인 상민(평민) 계층에서 성장함. (<백범일지>)
