@@ -5,7 +5,7 @@
 # 연대기
 ## 1876	황해도 해주에서 출생 (본명 김창수)  
 배경: 구한말 혼란기. 몰락 양반 가문 출신으로, 신분 차별을 겪으며 평등 의식과 더불어 나라를 구해야 한다는 민족의식을 키움.  
-## 1893	동학농민운동 참여 및 접주 활동([link1](https://www.kimkoo.org/board/kimgu_view.asp?skey=&stext=&idx=173)	 
+## 1893	동학농민운동 참여 및 접주 활동([link1](https://www.kimkoo.org/board/kimgu_view.asp?skey=&stext=&idx=173))	 
 동기: 봉건적 모순과 외세의 침탈에 맞서 민중 운동에 투신.  
 전환점 : 무지렁이 백성(백범)의 신분으로 나라를 구하겠다는 초기 독립 사상을 확립하는 계기가 됨.  
 ## [1896	치하포 의거 (일본군 장교 쓰치다 살해)](https://encykorea.aks.ac.kr/Article/E0078233?utm_source=chatgpt.com)
