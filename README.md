@@ -7,9 +7,9 @@
  
 ## Title:      Ensuring Fair Access to High-Cost Innovative Treatments  
 Recent advances in gene therapies and personalized targeted therapies are opening new possibilities for treating intractable diseases.    However, the high cost of these treatments prevents some patients from receiving them.    Therefore, public support systems should be strengthened to ensure fair access to high-cost innovative treatments.  
-First, protecting the right to life is a government duty, and access to high-cost treatments should not depend on wealth. For example, if low-income patients cannot afford treatment, wealth may determine treatment access and survival, worsening health inequality. Expanded health insurance and public funds can help ensure fair access to treatment.  
-Second, early support for innovative treatments can lower long-term social costs. For instance, severe intractable diseases cause medical costs and lost income. Early treatment may reduce public health insurance spending and help patients return to daily life and work.  
-In conclusion, public support for high-cost innovative treatments is necessary to protect the right to life and build a sustainable healthcare system. Public support should be expanded while considering treatment effectiveness and financial burden so that scientific progress does not become a privilege only for the wealthy.
+**First**, protecting the right to life is a government duty, and access to high-cost treatments should not depend on wealth. For example, if low-income patients cannot afford treatment, wealth may determine treatment access and survival, worsening health inequality. Expanded health insurance and public funds can help ensure fair access to treatment.  
+**Second**, early support for innovative treatments can lower long-term social costs. For instance, severe intractable diseases cause medical costs and lost income. Early treatment may reduce public health insurance spending and help patients return to daily life and work.  
+**In conclusion**, public support for high-cost innovative treatments is necessary to protect the right to life and build a sustainable healthcare system. Public support should be expanded while considering treatment effectiveness and financial burden so that scientific progress does not become a privilege only for the wealthy.
 
 
 
