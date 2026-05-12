@@ -5,6 +5,11 @@
 둘째, 혁신 치료제에 대한 초기 비용 지원은 장기적으로 국가 의료 시스템의 사회적 비용을 줄일 수 있다.   예를 들어, 중증 난치성 질환은 입원비, 요양비와 노동력 상실 등 큰 비용을 발생시킨다.   그러나 혁신 치료제를 조기에 투여해 질환을 완치하거나 호전시킨다면 건강보험 지출을 줄이고 환자의 사회 복귀를 도울 수 있다.  
 결론적으로, 고가 혁신 치료제에 대한 공적 지원은 생명권 보장과 국가 의료 시스템의 지속가능한 발전을 위해 필요하다.   과학기술의 진보가 소수 부유층만의 전유물이 되지 않도록, 치료 효과와 재정 부담을 고려한 공정한 지원 기준이 마련되어야 한다.
  
+## Title:      Ensuring Fair Access to High-Cost Innovative Treatments  
+Recent advances in gene therapies and personalized targeted therapies are opening new possibilities for treating intractable diseases.    However, the high cost of these treatments prevents some patients from receiving them.    Therefore, public support systems should be strengthened to ensure fair access to high-cost innovative treatments.  
+First, protecting the right to life is a government duty, and access to high-cost treatments should not depend on wealth. For example, if low-income patients cannot afford treatment, wealth may determine treatment access and survival, worsening health inequality. Expanded health insurance and public funds can help ensure fair access to treatment.  
+Second, early support for innovative treatments can lower long-term social costs. For instance, severe intractable diseases cause medical costs and lost income. Early treatment may reduce public health insurance spending and help patients return to daily life and work.  
+In conclusion, public support for high-cost innovative treatments is necessary to protect the right to life and build a sustainable healthcare system. Public support should be expanded while considering treatment effectiveness and financial burden so that scientific progress does not become a privilege only for the wealthy.
 
 
 
